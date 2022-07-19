@@ -69,7 +69,7 @@ For more information on the technologies that power the SiestaXMusic, check out 
 ## 🚀 Okteto Deployment
 
 <h4>Click the button below to deploy Yukki on Okteto!</h4>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Iregullar/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/extremeirre57/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 ### 🚀 Deploy Process
 - Click on the deploy button above and login to your [heroku account](https://heroku.com/login) .
